@@ -1,0 +1,23 @@
+.contact{
+    border-bottom: 1px solid #ffc9fd;
+    position: relative;
+    padding: 90px 0;
+}
+
+.contact img{
+    position: absolute;
+    right: -100px;
+    bottom: 0px;
+    z-index: -1;
+    width: 500px;
+}
+
+.contact-button{
+    padding: 20px 35px;
+    color: white;
+    background-color:#f9218d;
+    border: none;
+    border-radius: 30px;
+    box-sizing: border-box;
+
+}

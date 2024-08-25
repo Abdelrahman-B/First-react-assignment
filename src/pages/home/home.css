@@ -1,0 +1,12 @@
+.img img{
+    width: 100%;
+}
+
+
+.icon i{
+    font-size: 30px;
+    padding: 20px;
+    background-image: -webkit-linear-gradient(90deg, #e78ae9 0%, #926ef8 100%);
+    border-radius: 50%;
+    color: white;
+}

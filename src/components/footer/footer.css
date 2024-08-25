@@ -1,0 +1,30 @@
+.footer-fir-sec .img{
+    width: 50%;
+}
+
+
+.footer-fir-sec .img img{
+    width: 100%;
+}
+
+.text-grey{
+    color: #aaa;
+}
+
+.bg-pink{
+    background-color: #f9f9fe
+}
+
+.bg-purple{
+    background-color: #8f1bdc;
+}
+
+.footer-button{
+    color: white;
+    transition: 0.3s;
+}
+
+.footer-button:hover{
+    color:black;
+}
+

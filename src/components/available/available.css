@@ -1,0 +1,11 @@
+.container-fluid{
+    background-image: -webkit-linear-gradient(0deg, #6c19f6 0%, #f9218d 100%);
+}
+
+.img img{
+    width: 150px;
+}
+
+.img-ava img{
+    width: 100%;
+}

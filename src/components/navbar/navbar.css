@@ -1,0 +1,28 @@
+.fs-cust{
+    font-size: 18px;
+    color: #051441;
+    text-decoration: none;
+    transition: 0.3s;
+    position: relative;
+}
+
+
+.fs-cust:hover{
+    color: rgba(0, 0, 0, .7);
+}
+
+.fs-cust::before{
+    content: "";
+    position: absolute;
+    border-bottom: 2px solid #a60dcf;
+    bottom: -3px;
+    width: 0;
+    transition: 0.5s;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.fs-cust:hover::before{
+    width: 100%;
+
+}
